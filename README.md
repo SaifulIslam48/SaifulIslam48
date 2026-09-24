@@ -1,8 +1,10 @@
-<img src="./banner image.jpg" alt="" width="1700px" height="350px">
+<img src="./banner_image.jpg" alt="" width="1700px" height="350px">
 <h1 align="center">Hi 👋, I'm Saiful Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifulislam48&label=Profile%20views&color=0e75b6&style=flat" alt="saifulislam48" /> </p>
+
+- 🔭 I’m currently working on **React.js, Typescript, Tailwind CSS for frontend development**
 
 - 🌱 I’m currently learning **Full Stack (MERN) Development**
 
@@ -10,7 +12,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/saiful.owlid.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saiful.owlid.9" height="30" width="40" /></a>
+  <a href="https://fb.com/saiful.owlid.9" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  
+  <a href="https://github.com/saifulislam48" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
