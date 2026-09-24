@@ -1,3 +1,4 @@
+<img src="./banner image.jpg" alt="" width="1700px" height="350px">
 <h1 align="center">Hi 👋, I'm Saiful Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
